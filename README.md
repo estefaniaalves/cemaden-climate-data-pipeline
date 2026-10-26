@@ -7,7 +7,7 @@ Criar um pipeline ETL (Extração, Transformação e Carga) automático para pro
 
 🛠️ Stack Tecnológica & Ferramentas
 * Linguagem / Scripting: Python 3.10+ (Pandas, Requests, SQLAlchemy, GeoPandas) 
-* Orquestração: Apache Airflow ou scripts automatizados via Cron/Task Scheduler
+* Orquestração: Apache Airflow 
 * Armazenamento / Banco de Dados: PostgreSQL com extensão PostGIS (para dados geoespaciais)
 * Modelagem & Transformação: Scripts SQL modularizados
 * Visualização / BI: Metabase, Power BI 
