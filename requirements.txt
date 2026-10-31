@@ -1,1 +1,7 @@
+Plaintext
 
+pandas==2.1.4
+sqlalchemy==2.0.25
+psycopg2-binary==2.9.9
+geopandas==0.14.2
+python-slugify==8.0.1
